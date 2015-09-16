@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說諸行有為經
+#+DATE: 2015-08-30 20:19:57.246869
+#+PROPERTY: JUAN 0
